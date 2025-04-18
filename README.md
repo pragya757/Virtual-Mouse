@@ -6,12 +6,11 @@ A sophisticated computer control system that combines hand gesture recognition a
 
 ### Hand Controls
 - 👆 **Cursor Mode**: Control mouse cursor with index finger
-- ✌️ **Volume Control**: Adjust system volume using thumb-index pinch
-- 👉 **Scroll Mode**: Smooth scrolling with finger movements
-- 👊 **Click Actions**: 
-  - Left click: Thumb to palm
-  - Right click: Pinky to palm
-
+- 🤏 **Volume Control**: Adjust system volume using thumb-index pinch
+- ☝️ **Scroll Mode**: Smooth scrolling with finger movements
+- 🖱️ **Click Actions**: 
+  - 👍 Left click: Thumb to palm
+  - 🤙 Right click: Pinky to palm
 ### Eye Controls
 - 👁️ **Gaze Control**: Move cursor with eye movement
 - 😉 **Wink Actions**:
